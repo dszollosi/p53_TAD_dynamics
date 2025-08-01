@@ -1,5 +1,5 @@
 # p53_TAD_dynamics
-Collection of jupyter notebooks and sample data for the calculations as well as movies of MD simulations in relation to the manuscript 'Hierarchically ordered multi-timescale structural dynamics of the intrinsically disordered p53 transactivation domain', DOI: XXX.
+Collection of jupyter notebooks and sample data for the calculations as well as movies of MD simulations in relation to the manuscript **'Hierarchically ordered multi-timescale structural dynamics of the intrinsically disordered p53 transactivation domain'**, DOI: XXX.
 
 ## Jupyter Notebooks
 
