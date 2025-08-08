@@ -7,6 +7,7 @@ Collection of jupyter notebooks and sample data for the calculations as well as 
 * Calculation of relaxation dispersion (RD) spectrum from chemical shift time series pedicted from an MD trajectory (SPARTA+)
 * Detection of transient stable structures
 * Bayesian fit of a stretched CPMG function to the RD spectra predicted from MD trajectories using pymc
+* Building a Markov model to analyze timescales on a direct structural basis.
 
 ## Sample data
 
